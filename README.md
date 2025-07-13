@@ -1,13 +1,13 @@
 # Spotify to YouTube Music Playlist Transfer
 
-Transfer playlists from Spotify to YouTube Music with intelligent track matching.
+Transfer playlists from Spotify to YouTube Music.
 Brutally vibe coded because I needed it, and you might too.
 
 ## Features
 
 - Transfer public Spotify playlists to YouTube Music
-- Smart track matching using song title, artist, and duration
-- Detailed logging of transfer process and missing tracks
+- Track matching using song title, artist, and duration
+- Logging of transfer process and missing tracks
 - Configure via `.env` file or command line arguments
 - Built with Python 3.11+ and Poetry
 

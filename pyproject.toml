@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "testspotify"
+version = "0.1.0"
+description = ""
+authors = ["czyber <czypka.github@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+spotipy = "^2.23.0"
+ytmusicapi = "^1.7.0"
+requests = "^2.31.0"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
